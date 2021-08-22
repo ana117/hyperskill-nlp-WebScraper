@@ -9,7 +9,8 @@ You will also find out how to make your program save results to a file with the 
 Link to the project [Web Scraper](https://hyperskill.org/projects/145).
 
 ## Demo
-
+![WebScraper](https://user-images.githubusercontent.com/63540951/130343724-4a44c592-9c99-45fa-8bdf-5316973ea63a.gif)\
+note: this is 2x speed
 
 ## Stages
 **Stage 1/5: Wanna Talk to the Internet?**\
