@@ -8,6 +8,8 @@ You will also find out how to make your program save results to a file with the 
 
 Link to the project [Web Scraper](https://hyperskill.org/projects/145).
 
+Link to all of [my Hyperskill projects](https://github.com/ana117/hyperskilll-projects).
+
 ## Demo
 ![WebScraper](https://user-images.githubusercontent.com/63540951/130343724-4a44c592-9c99-45fa-8bdf-5316973ea63a.gif)\
 note: this is 2x speed
